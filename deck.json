@@ -1,1 +1,61 @@
-
+{
+  "created": 1756413980937,
+  "streak": 0,
+  "todayDone": 0,
+  "cards": [
+    {
+      "id": "Hund-1756413980",
+      "word": "Hund",
+      "article": "der",
+      "plural": "Hunde",
+      "trans": "dog",
+      "sentences": [
+        "Armer Hund!",
+        "Träumen Hunde?",
+        "Braver Hund!"
+      ],
+      "box": 1,
+      "due": 0,
+      "stats": {
+        "seen": 0,
+        "correct": 0
+      }
+    },
+    {
+      "id": "Katze-1756413982",
+      "word": "Katze",
+      "article": "die",
+      "plural": "Katzen",
+      "trans": "cat",
+      "sentences": [
+        "Katze!",
+        "Miauen Katzen?",
+        "Katze trinkt."
+      ],
+      "box": 1,
+      "due": 0,
+      "stats": {
+        "seen": 0,
+        "correct": 0
+      }
+    },
+    {
+      "id": "Buch-1756413984",
+      "word": "Buch",
+      "article": "das",
+      "plural": "Bücher",
+      "trans": "book",
+      "sentences": [
+        "Lies Bücher.",
+        "Buch zu!",
+        "Verlage veröffentlichen Bücher."
+      ],
+      "box": 1,
+      "due": 0,
+      "stats": {
+        "seen": 0,
+        "correct": 0
+      }
+    }
+  ]
+}
