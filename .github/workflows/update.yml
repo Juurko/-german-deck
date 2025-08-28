@@ -1,5 +1,8 @@
 name: Update Deck
 
+permissions:
+  contents: write   # ✅ allows commit & push
+
 on:
   schedule:
     - cron: "0 0 * * *"   # every day at 00:00 UTC
