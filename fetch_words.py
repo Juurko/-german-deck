@@ -7,7 +7,8 @@ WORDS = [
 ]
 
 def get_tatoeba(word):
-    url = f"https://tatoeba.org/eng/api_v0/search?query={word}&from=deu&to=eng&orphans=no&unapproved=no"
+    #url = f"https://tatoeba.org/eng/api_v0/search?query={word}&from=deu&to=eng&orphans=no&unapproved=no"
+    url = f"https://tatoeba.org/eng/api_v0/search?query={word.lower()}&from=deu&to=eng&orphans=no&unapproved=no&has_audio=no"
     try:
         r = requests.get(url, timeout=10)
         r.raise_for_status()
