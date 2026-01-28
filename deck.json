@@ -1,10 +1,10 @@
 {
-  "created": 1769477050788,
+  "created": 1769563214087,
   "streak": 0,
   "todayDone": 0,
   "cards": [
     {
-      "id": "Hund-1769477050",
+      "id": "Hund-1769563214",
       "word": "Hund",
       "article": "der",
       "plural": "Hunde",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "Katze-1769477053",
+      "id": "Katze-1769563215",
       "word": "Katze",
       "article": "die",
       "plural": "Katzen",
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "Buch-1769477055",
+      "id": "Buch-1769563217",
       "word": "Buch",
       "article": "das",
       "plural": "Bücher",
@@ -48,7 +48,7 @@
       "sentences": [
         "Lies Bücher.",
         "Buch zu!",
-        "Verlage veröffentlichen Bücher."
+        "Kauft das Buch."
       ],
       "box": 1,
       "due": 0,
