@@ -1,10 +1,10 @@
 {
-  "created": 1776132245792,
+  "created": 1776218484179,
   "streak": 0,
   "todayDone": 0,
   "cards": [
     {
-      "id": "Hund-1776132245",
+      "id": "Hund-1776218484",
       "word": "Hund",
       "article": "der",
       "plural": "Hunde",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "Katze-1776132248",
+      "id": "Katze-1776218487",
       "word": "Katze",
       "article": "die",
       "plural": "Katzen",
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "Buch-1776132252",
+      "id": "Buch-1776218491",
       "word": "Buch",
       "article": "das",
       "plural": "Bücher",
