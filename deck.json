@@ -1,10 +1,10 @@
 {
-  "created": 1790478825563,
+  "created": 1790565025369,
   "streak": 0,
   "todayDone": 0,
   "cards": [
     {
-      "id": "Hund-1790478825",
+      "id": "Hund-1790565025",
       "word": "Hund",
       "article": "der",
       "plural": "Hunde",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": "Katze-1790478833",
+      "id": "Katze-1790565028",
       "word": "Katze",
       "article": "die",
       "plural": "Katzen",
@@ -40,13 +40,15 @@
       }
     },
     {
-      "id": "Buch-1790478839",
+      "id": "Buch-1790565032",
       "word": "Buch",
       "article": "das",
       "plural": "Bücher",
       "trans": "book",
       "sentences": [
-        "Beispielsatz mit Buch."
+        "Lies Bücher.",
+        "Buch zu!",
+        "Ich sammele Bücher."
       ],
       "box": 1,
       "due": 0,
