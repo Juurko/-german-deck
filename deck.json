@@ -1,18 +1,16 @@
 {
-  "created": 1794895717576,
+  "created": 1794980240088,
   "streak": 0,
   "todayDone": 0,
   "cards": [
     {
-      "id": "Hund-1794895717",
+      "id": "Hund-1794980240",
       "word": "Hund",
       "article": "der",
       "plural": "Hunde",
       "trans": "dog",
       "sentences": [
-        "Armer Hund!",
-        "Träumen Hunde?",
-        "Braver Hund!"
+        "Beispielsatz mit Hund."
       ],
       "box": 1,
       "due": 0,
@@ -22,15 +20,13 @@
       }
     },
     {
-      "id": "Katze-1794895725",
+      "id": "Katze-1794980250",
       "word": "Katze",
       "article": "die",
       "plural": "Katzen",
       "trans": "cat",
       "sentences": [
-        "Katze!",
-        "Miauen Katzen?",
-        "Katze trinkt."
+        "Beispielsatz mit Katze."
       ],
       "box": 1,
       "due": 0,
@@ -40,15 +36,13 @@
       }
     },
     {
-      "id": "Buch-1794895738",
+      "id": "Buch-1794980261",
       "word": "Buch",
       "article": "das",
       "plural": "Bücher",
       "trans": "book",
       "sentences": [
-        "Lies Bücher.",
-        "Buch zu!",
-        "Ich sammele Bücher."
+        "Beispielsatz mit Buch."
       ],
       "box": 1,
       "due": 0,
